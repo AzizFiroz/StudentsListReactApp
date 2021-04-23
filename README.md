@@ -1,8 +1,7 @@
-Assignment -2
 
-Made by Aziz  Firoz
-RollNo : 44
-Semester : 6
+
+Made by Aziz Firoz Mithaiwala
+
 
 
 ===========================================
@@ -90,7 +89,7 @@ For sending any feedback
 AboutUs: 
 Bio data
 -------------------------------------------------------------------------------------------
-Backend: 
+Backend Folder: Middle Ware
 
 Student.js: This file is used to create model/Schema of the required mongodb database
 
